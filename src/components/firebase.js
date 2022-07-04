@@ -1,5 +1,7 @@
 import firebase from "firebase";
 import "firebase/auth";
+
+
 export const auth = firebase.initializeApp ({
     apiKey: "AIzaSyDm_bpo3mG9dYNmiUyl00Zphf_k_VcWuZ8",
     authDomain: "unlichat-cbdd0.firebaseapp.com",
